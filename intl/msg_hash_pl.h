@@ -1776,7 +1776,7 @@ MSG_HASH(MENU_ENUM_LABEL_VALUE_VIDEO_POST_FILTER_RECORD,
 MSG_HASH(MENU_ENUM_LABEL_VALUE_VIDEO_REFRESH_RATE,
       "Odświeżanie w pionie")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_VIDEO_REFRESH_RATE_AUTO,
-      "Szacowana liczba klatek na sekundę na ekranie")
+      "Szacowana częstotliwość odświeżania ekranu")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_VIDEO_REFRESH_RATE_POLLED,
       "Ustaw częstotliwość odświeżania raportowanego")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_VIDEO_ROTATION,
